@@ -36,15 +36,15 @@
             <DataGrid.Columns>
                 <!--<DataGridTextColumn Header="ID" Width="15" Binding="{Binding ID}"  />-->
                 <DataGridTextColumn Header="ФИО"  Width="155"  Binding="{Binding NSM}"/>
-                <DataGridTextColumn Header="1"  Binding="{Binding Day1,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="2"  Binding="{Binding Day2,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="3"  Binding="{Binding Day3,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="1"   Binding="{Binding Day1,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="2"   Binding="{Binding Day2,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="3"   Binding="{Binding Day3,UpdateSourceTrigger=PropertyChanged}"/>
                 <DataGridTextColumn Header="4"   Binding="{Binding Day4,UpdateSourceTrigger=PropertyChanged}"/>
                 <DataGridTextColumn Header="5"   Binding="{Binding Day5,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="6"  Binding="{Binding Day6,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="7"  Binding="{Binding Day7,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="8"  Binding="{Binding Day8,UpdateSourceTrigger=PropertyChanged}"/>
-                <DataGridTextColumn Header="9"  Binding="{Binding Day9,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="6"   Binding="{Binding Day6,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="7"   Binding="{Binding Day7,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="8"   Binding="{Binding Day8,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="9"   Binding="{Binding Day9,UpdateSourceTrigger=PropertyChanged}"/>
                 <DataGridTextColumn Header="10"  Binding="{Binding Day10,UpdateSourceTrigger=PropertyChanged}"/>
                 <DataGridTextColumn Header="11"  Binding="{Binding Day11,UpdateSourceTrigger=PropertyChanged}"/>
                 <DataGridTextColumn Header="12"  Binding="{Binding Day12,UpdateSourceTrigger=PropertyChanged}"/>
